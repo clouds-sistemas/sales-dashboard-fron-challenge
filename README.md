@@ -1,6 +1,6 @@
 # TESTE PARA CANDIDATOS
 
-## Desafio dashboard backend
+## Desafio dashboard frontend
 
 O teste tem como objetivo fornecer um `dashboard de vendas` realizadas durante o ano de `2018` e auxiliar o gestor na tomada de decisão.
 
