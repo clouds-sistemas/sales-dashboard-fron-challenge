@@ -15,7 +15,7 @@ O projeto final deve apresentar as seguintes informações:
 - Um gráfico contendo o valor total de produtos vendidos por mês.
 - Um gráfico contendo os produtos mais vendidos em ordem decrescente.
 
-Para isso, fornecemos uma api em **node.js** 
+Para isso, fornecemos uma api, contida neste repositório, em **node.js** 
 
 ### Atenção:
 
