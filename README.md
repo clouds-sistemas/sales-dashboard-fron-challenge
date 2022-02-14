@@ -1,10 +1,10 @@
 # TESTE PARA CANDIDATOS
 
-## Desafio dashboard frontend
+## Desafio dashboard front end
 
 O teste tem como objetivo fornecer um `dashboard de vendas` realizadas durante o ano de `2018` e auxiliar o gestor na tomada de decisão.
 
-O candidato deve desenvolver o frontend da aplicação utilizando seus conhecimentos em React.
+O candidato deve desenvolver o front end da aplicação utilizando seus conhecimentos em React.
 
 O projeto final deve apresentar as seguintes informações:
 
@@ -44,7 +44,7 @@ A API irá retornar um JSON no seguinte formato:
 }
 ```
 ### Atenção:
-O frontend devera enviar o arquivo através do campo **file**;
+O front end devera enviar o arquivo através do campo **file**;
 
 ### Ticket 3:
 Para limpar os dados das vendas, implemente uma rotina que fará uma chamada na rota `/all` utilizando o verbo **DELETE**.
