@@ -77,7 +77,7 @@ export default class SalesController {
     const responseData = {
       products,
       "entries_per_page": entriesPerPage,
-      "total_results": products.length
+      "total_results": await SalesDAO.getNumberOfSales()
     }
 
     return response.json(responseData);
